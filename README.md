@@ -1,3 +1,5 @@
+![BSI Logo](assets/image.png)
+
 # BSI Codes - UFRPE/2022.1
 
 Welcome to the official code repository for the Bachelor of Information Systems (BSI) Class of 2022.1 at the Federal Rural University of Pernambuco (UFRPE). Here you'll find a collection of projects, assignments, and coding exercises undertaken by our talented cohort throughout the semester.
