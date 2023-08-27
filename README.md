@@ -1,9 +1,7 @@
 ![BSI Logo](assets/image.png)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-11%2B-blue)](https://www.java.com/)
-[![Software Development](https://img.shields.io/badge/Category-Web%20Development-green)](#)
-[![Data Analysis](https://img.shields.io/badge/Category-Data%20Analysis-yellow)](#)
-[![Algorithms](https://img.shields.io/badge/Skills-Algorithms-red)](#)
+[![Software Development](https://img.shields.io/badge/Software%20Development-blueviolet)](#)
 [![Documentation](https://img.shields.io/badge/Skills-Documentation-brightgreen)](#)
 [![Open Source](https://img.shields.io/badge/Contribution-Open%20Source-blueviolet)](#)
 
